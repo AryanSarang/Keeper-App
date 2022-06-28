@@ -2,6 +2,7 @@
   "name": "keeper-part-3",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aryansarang.github.io/Keeper-App",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
